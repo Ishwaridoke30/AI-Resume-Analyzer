@@ -4,40 +4,39 @@ Building AI course project
 
 ## Summary
 
-AI Resume Analyzer is an AI-powered application...
+AI Resume Analyzer is an AI-powered application that helps students and job seekers improve their resumes by analyzing resume content and providing personalized suggestions.
 
 ## Background
-Many students struggle to create professional resumes that meet industry standards. This project helps users improve resume quality and ATS compatibility.
+
+Many students struggle to create professional resumes that meet industry standards.
 
 ## How is it used?
-Users upload a resume in PDF or DOCX format. The AI analyzes the resume, detects missing skills, checks ATS compatibility, and provides suggestions for improvement.
+
+Users upload a resume in PDF or DOCX format. The AI analyzes the resume and provides improvement suggestions.
 
 ## Data sources and AI methods
 
-### Data Sources
+### Data sources
+
 - User-uploaded resumes
 - Public job descriptions
 - ATS resume guidelines
 
-### AI Methods
+### AI methods
+
 - Natural Language Processing (NLP)
-- Named Entity Recognition (NER)
 - Machine Learning
-- Text Classification
 
 ## Challenges
-The project cannot guarantee employment. Different companies use different ATS systems, and human review is still important.
+
+The system cannot guarantee employment and depends on the quality of the uploaded resume.
 
 ## What next?
-Future improvements include:
-- AI-generated cover letters
+
+- AI cover letter generator
 - LinkedIn profile analysis
 - Mock interview preparation
-- Multi-language support
 
 ## Acknowledgments
-- Elements of AI
-- University of Helsinki
-- Reaktor
-- Hugging Face
-- Python Open Source Community
+
+This project was created as part of the **Building AI** course.
