@@ -3,7 +3,8 @@
 Building AI course project
 
 ## Summary
-AI Resume Analyzer is an AI-powered application that helps students and job seekers improve their resumes by analyzing resume content, identifying missing skills, and providing personalized suggestions.
+
+AI Resume Analyzer is an AI-powered application...
 
 ## Background
 Many students struggle to create professional resumes that meet industry standards. This project helps users improve resume quality and ATS compatibility.
